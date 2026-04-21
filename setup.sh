@@ -48,7 +48,7 @@ echo "Creating shortcuts..."
 cat >> ~/.bashrc << 'EOF'
 
 # $4 PocketCode aliases
-alias kyvon-ai-web="kyvon ai web --hostname 0.0.0.0 --port 4096"
+alias kyvon-ai-web="kyvon-ai-web --hostname 0.0.0.0 --port 4096"
 
 # Load NVM on login
 export NVM_DIR="$HOME/.nvm"
