@@ -13,7 +13,7 @@
 - **Private & Secure** - Tailscale VPN, no open ports
 
 > Works with **Kyvon Ai**, **Claude Code**, **Codex**, and **Gemini CLI**.  
-> This guide uses [Kyvin Ai](https://kyvon.ai).
+> This guide uses [Kyvon Ai](https://kyvon.ai).
 
 ---
 
