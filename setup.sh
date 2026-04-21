@@ -5,7 +5,7 @@
 set -e
 
 echo ""
-echo "\Kyvon Ai Setup Starting..."
+echo "Kyvon Ai Setup Starting..."
 echo ""
 
 # Step 1: Update System
